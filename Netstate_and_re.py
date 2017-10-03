@@ -2,7 +2,6 @@
 # to search/extract information from its output.   This is to find out if a port has more than 7 connections, and 
 # if so, clean up the connections for the port.
 
-
 import subprocess
 import re
 
